@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pushan Mukhopadhyay</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://carlyberry.me/portrait-animated-gif">
+<img align="right" alt="coding" width="400" src="[https://carlyberry.me/portrait-animated-gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godse-07&label=Profile%20views&color=0e75b6&style=flat" alt="godse-07" /> </p>
