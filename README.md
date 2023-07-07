@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_pushan" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_pushan?logo=twitter&style=for-the-badge" alt="i_am_pushan" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📝 I regularly write articles on [https://medium.com/@mukhopadhyaypushan42](https://medium.com/@mukhopadhyaypushan42)
 
