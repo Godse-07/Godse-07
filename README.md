@@ -1,3 +1,5 @@
+<img align="center" alt="coding" width=100% src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+
 
 <h1 align="center">Hi 👋, I'm Pushan Mukhopadhyay</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
