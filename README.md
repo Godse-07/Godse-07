@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mukhopadhyaypushan42](https://medium.com/@mukhopadhyaypushan42)
 
-- 💬 Ask me about **Competitive Coding**
+- 💬 Ask me about **Competitive Coding and DSA**
 
 - 📫 How to reach me **mukhopadhyaypushan42@gmail.com**
 
