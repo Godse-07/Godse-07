@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=godse-07&label=Profile%20views&color=0e75b6&style=flat" alt="godse-07" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/i_am_pushan" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_pushan?logo=twitter&style=for-the-badge" alt="i_am_pushan" /></a> </p>
 
