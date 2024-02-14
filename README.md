@@ -36,3 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godse-07&show_icons=true&locale=en&layout=compact" alt="godse-07" /></p>
 
 
+
+
+![snake gif](https://github.com/Godse-07/Godse-07/blob/output/github-contribution-grid-snake.gif)
+
