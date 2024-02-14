@@ -38,5 +38,5 @@
 
 
 
-![snake gif](https://github.com/Godse-07/Godse-07/blob/output/github-contribution-grid-snake.gif)
+
 
