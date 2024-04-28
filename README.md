@@ -1,10 +1,10 @@
-<img align="center" alt="coding" width=100% src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif">
+<img align="center" alt="coding" height=500px width=100% src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQzMDgyNTgsIm5iZiI6MTcxNDMwNzk1OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI4VDEyMzkxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyNzA2MzM3MjAzM2Y5MDdkMjhhMDYwZGQ1MTcwMzZlZWZhM2E5NTA5ZThmY2M3ZTZjZGEwMzg2MzIwMTA3ZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vfTOlO1EyD4ZEchy-lreSWk65U15Si7Vz2ATkei0lLQ">
 
 
 <h1 align="center">Hi 👋, I'm Pushan Mukhopadhyay</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif">
 
 
 
