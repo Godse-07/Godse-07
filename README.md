@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pushan Mukhopadhyay</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhjZnlrdTVuZ3ZyZGw0a2JnemxxMXIya3h0YWY4OWg4OGQ0ZDN1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dk57URqjqjHjNGHeMV/giphy.gif">
 
 
 
@@ -42,5 +42,13 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/Godse-07/Godse-07/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph.svg">
+</picture>
+
 
