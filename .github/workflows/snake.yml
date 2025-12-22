@@ -1,11 +1,8 @@
 name: GitHub Pacman Contribution Graph
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *"
-
-  # Allow manual triggering of the workflow
+    - cron: "0 0 * * *"   # Daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -14,21 +11,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Generate the Pacman contribution graph
       - name: Generate Pacman Contribution Graph
-        uses: abozanich/pacman-contribution-graph@main
+        uses: DenverCoder1/github-readme-pacman@v1
         with:
-          # GitHub username to generate the graph for
-          github_user_name: ${{ github.repository_owner }}
+          github_username: ${{ github.repository_owner }}
 
-          # Output directory
-          output_directory: output
-
-      # Step 2: Deploy the generated files to the 'output' branch
-      - name: Deploy to Output Branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
+          publish_dir: .
           publish_branch: output
           commit_message: "Update pacman contribution graph [skip ci]"
