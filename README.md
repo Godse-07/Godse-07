@@ -76,19 +76,25 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Godse-07&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Godse-07&theme=vue&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Godse-07&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Godse-07&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Godse-07&theme=vue&hide_border=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Godse-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✍️ Latest Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph.svg">
 </picture>
 
 
