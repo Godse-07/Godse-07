@@ -1,38 +1,25 @@
-name: Update GitHub Profile (Pacman + Medium)
+name: Generate Pacman Game
 
 on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     timeout-minutes: 5
 
     steps:
-
-      - name: Generate Pacman Contribution Graph
+      - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-
-      - name: Fetch Medium Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: https://medium.com/feed/@mukhopadhyaypushan42
-          max_post_count: 5
-          commit_message: "Update Medium posts"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-
-
-      - name: Push generated files to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
