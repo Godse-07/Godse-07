@@ -1,6 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Pushan Mukhopadhyay</h1>
-<h3 align="center">A passionate Competitive Coder from India</h3>
+<p align="center">
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+in+Progress;DSA+Enthusiast;Lifelong+Learner+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95" 
+      alt="Typing SVG" />
+  </a>
+</p>
+
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhjZnlrdTVuZ3ZyZGw0a2JnemxxMXIya3h0YWY4OWg4OGQ0ZDN1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dk57URqjqjHjNGHeMV/giphy.gif">
 
