@@ -108,8 +108,20 @@ ${title}
     const { label, count } = TIME_SLOTS[key];
     const percent = total ? (count / total) * 100 : 0;
 
-    output += `${label.padEnd(10)} ${String(count).padStart(4)} commits  `;
-    output += `${bar(percent)}  ${percent.toFixed(2)}%\n`;
+    const LABEL_COL = 14;
+const COUNT_COL = 4;
+const GAP = "   ";
+
+output +=
+  label.padEnd(LABEL_COL) +
+  String(count).padStart(COUNT_COL) +
+  " commits" +
+  GAP +
+  bar(percent) +
+  GAP +
+  percent.toFixed(2).padStart(6) +
+  "%\n";
+
   }
 
   output += `\`\`\`\n`;
