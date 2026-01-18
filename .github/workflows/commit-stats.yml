@@ -2,7 +2,7 @@ name: Commit Activity Stats
 
 on:
   schedule:
-    - cron: "30 18 * * *" # 12 AM IST
+    - cron: "30 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,8 +15,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-
-      - run: npm install node-fetch
 
       - run: node scripts/updateCommitStats.js
         env:
