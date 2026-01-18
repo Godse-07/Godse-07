@@ -83,10 +83,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Godse-07&theme=vue&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Godse-07&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Godse-07&theme=vue&hide_border=false&layout=compact)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Godse-07?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
 ## ✍️ Latest Medium Posts
