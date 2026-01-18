@@ -5,9 +5,7 @@ const fs = require("fs");
 const USERNAME = "Godse-07";
 const TOKEN = process.env.GH_TOKEN;
 
-if (!TOKEN) {
-  throw new Error("GH_TOKEN is missing");
-}
+if (!TOKEN) throw new Error("GH_TOKEN missing");
 
 
 const TIME_SLOTS = {
@@ -28,6 +26,21 @@ function bar(percent) {
   const SIZE = 25;
   const filled = Math.round((percent / 100) * SIZE);
   return "█".repeat(filled) + "░".repeat(SIZE - filled);
+}
+
+
+function getTitle() {
+  const maxSlot = Object.entries(TIME_SLOTS)
+    .sort((a, b) => b[1].count - a[1].count)[0][0];
+
+  const titles = {
+    morning: "I'm an early 🐤",
+    daytime: "I'm a daytime dev ☀️",
+    evening: "I'm an evening hacker 🌆",
+    night:   "I'm a night owl 🌙"
+  };
+
+  return titles[maxSlot];
 }
 
 async function fetchAll(url) {
@@ -60,34 +73,33 @@ async function fetchAllCommits() {
   );
 
   for (const repo of repos) {
-    // skip forks to avoid noise
     if (repo.fork) continue;
 
     const commits = await fetchAll(
       `https://api.github.com/repos/${USERNAME}/${repo.name}/commits?author=${USERNAME}&`
     );
 
-    commits.forEach(commit => {
-      if (!commit.commit?.author?.date) return;
+    commits.forEach(c => {
+      const date = c?.commit?.author?.date;
+      if (!date) return;
 
-      const hour = new Date(commit.commit.author.date).getHours();
-      const slot = getSlot(hour);
-
-      TIME_SLOTS[slot].count++;
+      const hour = new Date(date).getHours();
+      TIME_SLOTS[getSlot(hour)].count++;
     });
   }
 }
 
 async function run() {
-  console.log("Fetching lifetime commits...");
   await fetchAllCommits();
 
   const total = Object.values(TIME_SLOTS)
-    .reduce((sum, s) => sum + s.count, 0);
+    .reduce((s, v) => s + v.count, 0);
+
+  const title = getTitle();
 
   let output = `## ⏰ Coding Rhythm
 
-I'm an early 🐤
+${title}
 
 \`\`\`text
 `;
@@ -110,7 +122,6 @@ I'm an early 🐤
   );
 
   fs.writeFileSync("README.md", updated);
-  console.log("README updated successfully");
 }
 
 run().catch(err => {
