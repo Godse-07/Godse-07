@@ -86,6 +86,10 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Godse-07?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
+<!--START_SECTION:commit_activity-->
+<!--END_SECTION:commit_activity-->
+
+
 ## ✍️ Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Cookie That Couldn’t Cross the Border - CrossOrigin does not support !!](https://medium.com/@mukhopadhyaypushan42/the-cookie-that-couldnt-cross-the-border-crossorigin-does-not-support-45d32b6ee124?source=rss-305d9dc4b292------2)
