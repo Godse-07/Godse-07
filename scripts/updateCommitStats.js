@@ -1,5 +1,5 @@
-import fs from "fs";
-import fetch from "node-fetch";
+const fs = require("fs");
+const fetch = require("node-fetch");
 
 const USERNAME = "Godse-07";
 const TOKEN = process.env.GH_TOKEN;
