@@ -134,6 +134,54 @@ output +=
   );
 
   fs.writeFileSync("README.md", updated);
+}async function run() {
+  await fetchAllCommits();
+
+  const total = Object.values(TIME_SLOTS)
+    .reduce((s, v) => s + v.count, 0);
+
+  const title = getTitle();
+
+  let output = `## ⏰ Coding Rhythm
+
+🧠 ${title}  
+💻 Total commits analyzed: ${total}
+
+\`\`\`text
+╭──────────────── Coding Activity ────────────────╮
+`;
+
+  for (const key of Object.keys(TIME_SLOTS)) {
+    const { label, count } = TIME_SLOTS[key];
+    const percent = total ? (count / total) * 100 : 0;
+
+    const LABEL_COL = 12;
+    const COUNT_COL = 4;
+    const GAP = "   ";
+
+    output +=
+      label.padEnd(LABEL_COL) +
+      String(count).padStart(COUNT_COL) +
+      " commits" +
+      GAP +
+      bar(percent) +
+      GAP +
+      percent.toFixed(2).padStart(6) +
+      "%\n";
+  }
+
+  output += `╰─────────────────────────────────────────────────╯
+\`\`\`
+`;
+
+  const readme = fs.readFileSync("README.md", "utf8");
+
+  const updated = readme.replace(
+    /<!--START_SECTION:commit_activity-->[\s\S]*?<!--END_SECTION:commit_activity-->/,
+    `<!--START_SECTION:commit_activity-->\n${output}\n<!--END_SECTION:commit_activity-->`
+  );
+
+  fs.writeFileSync("README.md", updated);
 }
 
 run().catch(err => {
