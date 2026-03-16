@@ -90,14 +90,14 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Setting your branch to exactly match the remote branch can be done in two steps:
+"To remove a property from an object (mutating the object), you can do it by using the delete keyword, like this:
+delete myObject.regex;
+// or,
+delete myObject['regex'];
+// or,
+var prop = &quot;regex&q..."
 
-git fetch origin
-git reset --hard origin/master
-
-If you want to save your current branch's state before doing this (ju..."
-
-👍 10312 upvotes
+👍 9991 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
