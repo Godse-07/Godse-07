@@ -86,7 +86,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Godse-07?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
-<!--START_SECTION:commit_activity-->
+<!--START_SECTION:stackoverflow-->
 ## ⏰ Coding Rhythm
 
 🧠 I'm an evening hacker 🌆  
@@ -101,7 +101,7 @@
 ╰─────────────────────────────────────────────────╯
 ```
 
-<!--END_SECTION:commit_activity-->
+<!--END_SECTION:stackoverflow-->
 
 
 ## ✍️ Latest Medium Posts
