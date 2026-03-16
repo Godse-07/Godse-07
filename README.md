@@ -89,13 +89,16 @@
 <!--START_SECTION:commit_activity-->
 ## ⏰ Coding Rhythm
 
-I'm an evening hacker 🌆
+🧠 I'm an evening hacker 🌆  
+💻 Total commits analyzed: 943
 
 ```text
-🌞 Morning     256 commits   ███████░░░░░░░░░░░░░░░░░░    27.21%
-🌆 Daytime     297 commits   ████████░░░░░░░░░░░░░░░░░    31.56%
-🌃 Evening     301 commits   ████████░░░░░░░░░░░░░░░░░    31.99%
-🌙 Night        87 commits   ██░░░░░░░░░░░░░░░░░░░░░░░     9.25%
+╭──────────────── Coding Activity ────────────────╮
+🌞 Morning   258 commits   ███████░░░░░░░░░░░░░░░░░░    27.36%
+🌆 Daytime   297 commits   ████████░░░░░░░░░░░░░░░░░    31.50%
+🌃 Evening   301 commits   ████████░░░░░░░░░░░░░░░░░    31.92%
+🌙 Night      87 commits   ██░░░░░░░░░░░░░░░░░░░░░░░     9.23%
+╰─────────────────────────────────────────────────╯
 ```
 
 <!--END_SECTION:commit_activity-->
