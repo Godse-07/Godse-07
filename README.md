@@ -90,14 +90,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To remove a property from an object (mutating the object), you can do it by using the delete keyword, like this:
-delete myObject.regex;
-// or,
-delete myObject['regex'];
-// or,
-var prop = &quot;regex&q..."
+"You are a victim of branch prediction fail.
 
-👍 9991 upvotes
+What is Branch Prediction?
+Consider a railroad junction:
+
+Image by Mecanismo, via Wikimedia Commons. Used under the CC-By-SA 3.0 license.
+Now for the sake ..."
+
+👍 35274 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
