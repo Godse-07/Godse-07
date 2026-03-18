@@ -90,15 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"You are a victim of branch prediction fail.
+"How can I merge two Python dictionaries in a single expression?
+For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
 
-What is Branch Prediction?
-Consider a railroad junction:
+In Python 3.9.0 or greater (..."
 
-Image by Mecanismo, via Wikimedia Commons. Used under the CC-By-SA 3.0 license.
-Now for the sake ..."
-
-👍 35274 upvotes
+👍 9407 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
