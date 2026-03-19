@@ -90,12 +90,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"How can I merge two Python dictionaries in a single expression?
-For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
+"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as ..."
 
-In Python 3.9.0 or greater (..."
-
-👍 9407 upvotes
+👍 11962 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
