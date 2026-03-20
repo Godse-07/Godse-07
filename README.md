@@ -90,9 +90,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as ..."
+"
+⚠ Warning:
+Any uncommitted local change to tracked files will be lost, even if staged.
+But any local file that's not tracked by Git will not be affected.
 
-👍 11962 upvotes
+
+First, update all origin/&lt;branch&gt; ref..."
+
+👍 13631 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
