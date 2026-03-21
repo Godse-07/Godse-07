@@ -90,15 +90,17 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-⚠ Warning:
-Any uncommitted local change to tracked files will be lost, even if staged.
-But any local file that's not tracked by Git will not be affected.
+"To rename the current branch:
+git branch -m &lt;newname&gt;
 
+To rename a branch while pointed to any branch:
+git branch -m &lt;oldname&gt; &lt;newname&gt;
 
-First, update all origin/&lt;branch&gt; ref..."
+-m is short for --move.
 
-👍 13631 upvotes
+To push the  local ..."
+
+👍 19726 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
