@@ -90,17 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To rename the current branch:
-git branch -m &lt;newname&gt;
+"How can I merge two Python dictionaries in a single expression?
+For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
 
-To rename a branch while pointed to any branch:
-git branch -m &lt;oldname&gt; &lt;newname&gt;
+In Python 3.9.0 or greater (..."
 
--m is short for --move.
-
-To push the  local ..."
-
-👍 19726 upvotes
+👍 9407 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
