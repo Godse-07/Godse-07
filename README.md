@@ -90,12 +90,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"How can I merge two Python dictionaries in a single expression?
-For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
+"Do the following:
+grep -rnw '/path/to/somewhere/' -e 'pattern'
 
-In Python 3.9.0 or greater (..."
 
-👍 9407 upvotes
+-r or -R is recursive,
+-n is line number, and
+-w stands for match the whole word.
+-l (lower-case L) can be added to just give the file ..."
+
+👍 14051 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
