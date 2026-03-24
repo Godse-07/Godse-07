@@ -90,16 +90,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Do the following:
-grep -rnw '/path/to/somewhere/' -e 'pattern'
+"For all unstaged files in current working directory use:
+git restore .
 
+For a specific file use:
+git restore path/to/file/to/revert
 
--r or -R is recursive,
--n is line number, and
--w stands for match the whole word.
--l (lower-case L) can be added to just give the file ..."
+That together with git switch replaces the overloaded git checkout ..."
 
-👍 14051 upvotes
+👍 7504 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
