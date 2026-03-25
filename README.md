@@ -90,15 +90,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For all unstaged files in current working directory use:
-git restore .
+"One does not simply redirect using jQuery
+jQuery is not necessary, and window.location.replace(...) will best simulate an HTTP redirect.
+window.location.replace(...) is better than using window.locati..."
 
-For a specific file use:
-git restore path/to/file/to/revert
-
-That together with git switch replaces the overloaded git checkout ..."
-
-👍 7504 upvotes
+👍 16465 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
