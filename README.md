@@ -90,15 +90,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-git-clean - Remove untracked files from the working tree
-Synopsis
-git clean [-d] [-f] [-i] [-n] [-q] [-e &lt;pattern&gt;] [-x | -X] [--] &lt;path&gt;…​
+"In the simplest terms, git pull does a git fetch followed by a git merge.
 
-Description
-Cleans the working tree by recursi..."
+git fetch updates your remote-tracking branches under refs/remotes/&lt;remote&gt;/. This operation is safe to run at any time..."
 
-👍 10098 upvotes
+👍 11699 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
