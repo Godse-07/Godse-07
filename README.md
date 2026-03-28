@@ -90,11 +90,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"In the simplest terms, git pull does a git fetch followed by a git merge.
+"For all unstaged files in current working directory use:
+git restore .
 
-git fetch updates your remote-tracking branches under refs/remotes/&lt;remote&gt;/. This operation is safe to run at any time..."
+For a specific file use:
+git restore path/to/file/to/revert
 
-👍 11699 upvotes
+That together with git switch replaces the overloaded git checkout ..."
+
+👍 7504 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
