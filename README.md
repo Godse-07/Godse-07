@@ -90,15 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For all unstaged files in current working directory use:
-git restore .
+"Yes, it was added in version 2.5. The expression syntax is:
+a if condition else b
 
-For a specific file use:
-git restore path/to/file/to/revert
+First condition is evaluated, then exactly one of either a or b is evaluated and returned based on the Boolean value ..."
 
-That together with git switch replaces the overloaded git checkout ..."
-
-👍 7504 upvotes
+👍 9355 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
