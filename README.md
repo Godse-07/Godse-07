@@ -90,12 +90,19 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Yes, it was added in version 2.5. The expression syntax is:
-a if condition else b
+"ECMAScript 6  introduced String.prototype.includes:
 
-First condition is evaluated, then exactly one of either a or b is evaluated and returned based on the Boolean value ..."
 
-👍 9355 upvotes
+const string = "foo";
+const substring = "oo";
+
+console.log(string.includes(substring)); // true
+
+
+
+String.prototype.includes is case-sensitiv..."
+
+👍 16087 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
