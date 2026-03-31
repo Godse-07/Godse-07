@@ -90,19 +90,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"ECMAScript 6  introduced String.prototype.includes:
+"For JSON text:
+application/json
 
 
-const string = "foo";
-const substring = "oo";
+The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
 
-console.log(string.includes(substring)); // true
+For JSONP (runnable JavaScript) with callback:
+application/j..."
 
-
-
-String.prototype.includes is case-sensitiv..."
-
-👍 16087 upvotes
+👍 11610 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
