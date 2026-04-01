@@ -90,16 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For JSON text:
-application/json
+"The notion that regex doesn't support inverse matching is not entirely true. You can mimic this behavior by using negative look-arounds:
+^((?!hede).)*$
 
+The regex above will match any string, or line ..."
 
-The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
-
-For JSONP (runnable JavaScript) with callback:
-application/j..."
-
-👍 11610 upvotes
+👍 7566 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
