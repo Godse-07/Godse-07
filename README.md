@@ -90,12 +90,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The notion that regex doesn't support inverse matching is not entirely true. You can mimic this behavior by using negative look-arounds:
-^((?!hede).)*$
+"It’s a holdover from the Netscape days:
 
-The regex above will match any string, or line ..."
+Missing digits are treated as 0[...]. An incorrect digit is simply interpreted as 0. For example the values #F0F0F0, F0F0F0, F0F0F, #FxFxFx and FxFxFx are all ..."
 
-👍 7566 upvotes
+👍 8245 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
