@@ -90,13 +90,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Assuming the hash of the commit you want is c5f567:
-git restore --source=c5f567 file1/to/restore file2/to/restore
+"Do the following:
+grep -rnw '/path/to/somewhere/' -e 'pattern'
 
-The git restore man page gives more information.
-If you want to revert to the commit ..."
 
-👍 7912 upvotes
+-r or -R is recursive,
+-n is line number, and
+-w stands for match the whole word.
+-l (lower-case L) can be added to just give the file ..."
+
+👍 14051 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
