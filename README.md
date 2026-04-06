@@ -90,9 +90,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as ..."
+"In Git 1.7.0 and later, you can checkout a new branch:
+git checkout -b &lt;branch&gt;
 
-👍 11963 upvotes
+Edit files, add and commit. Then push with the -u (short for --set-upstream) option:
+git push -u origin &lt;branc..."
+
+👍 8669 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
