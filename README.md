@@ -90,13 +90,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"In Git 1.7.0 and later, you can checkout a new branch:
-git checkout -b &lt;branch&gt;
+"WARNING: You need to store uncommitted edits to your stash before doing this, using git stash. Once complete, you can retrieve the stashed uncommitted edits with git stash pop. git reset hard command ..."
 
-Edit files, add and commit. Then push with the -u (short for --set-upstream) option:
-git push -u origin &lt;branc..."
-
-👍 8669 upvotes
+👍 8646 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
