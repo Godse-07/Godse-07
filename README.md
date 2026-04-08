@@ -90,9 +90,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"WARNING: You need to store uncommitted edits to your stash before doing this, using git stash. Once complete, you can retrieve the stashed uncommitted edits with git stash pop. git reset hard command ..."
+"Executive Summary
+git push -d &lt;remote_name&gt; &lt;branchname&gt;   # Delete remote
+git branch -d &lt;branchname&gt;               # Delete local
 
-👍 8646 upvotes
+Note: In most cases, &lt;remote_name&gt; will be o..."
+
+👍 26841 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
