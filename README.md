@@ -90,13 +90,14 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Executive Summary
-git push -d &lt;remote_name&gt; &lt;branchname&gt;   # Delete remote
-git branch -d &lt;branchname&gt;               # Delete local
+"Now with PHP 8 you can do this using str_contains:
+if (str_contains('How are you', 'are')) { 
+    echo 'true';
+}
 
-Note: In most cases, &lt;remote_name&gt; will be o..."
+Please note: The str_contains function will always return true if the $needle (the sub..."
 
-👍 26841 upvotes
+👍 8100 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
