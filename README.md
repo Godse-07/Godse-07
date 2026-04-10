@@ -90,14 +90,10 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Now with PHP 8 you can do this using str_contains:
-if (str_contains('How are you', 'are')) { 
-    echo 'true';
-}
+".gitignore will prevent untracked files from being added (without an add -f) to the set of files tracked by Git. However, Git will continue to track any files that are already being tracked.
+To stop t..."
 
-Please note: The str_contains function will always return true if the $needle (the sub..."
-
-👍 8100 upvotes
+👍 9295 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
