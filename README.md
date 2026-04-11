@@ -90,10 +90,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-".gitignore will prevent untracked files from being added (without an add -f) to the set of files tracked by Git. However, Git will continue to track any files that are already being tracked.
-To stop t..."
+"Do the following:
+grep -rnw '/path/to/somewhere/' -e 'pattern'
 
-👍 9295 upvotes
+
+-r or -R is recursive,
+-n is line number, and
+-w stands for match the whole word.
+-l (lower-case L) can be added to just give the file ..."
+
+👍 14051 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
