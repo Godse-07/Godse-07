@@ -90,16 +90,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Do the following:
-grep -rnw '/path/to/somewhere/' -e 'pattern'
+"To understand what yield does, you must understand what generators are. And before you can understand generators, you must understand iterables.
+Iterables
+When you create a list, you can read its item..."
 
-
--r or -R is recursive,
--n is line number, and
--w stands for match the whole word.
--l (lower-case L) can be added to just give the file ..."
-
-👍 14051 upvotes
+👍 18305 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
