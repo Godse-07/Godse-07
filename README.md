@@ -90,11 +90,10 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To understand what yield does, you must understand what generators are. And before you can understand generators, you must understand iterables.
-Iterables
-When you create a list, you can read its item..."
+"Classes are objects
+Before delving into metaclasses, a solid grasp of Python classes is beneficial. Python holds a particularly distinctive concept of classes, a notion it adopts from the Smalltalk la..."
 
-👍 18305 upvotes
+👍 9333 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
