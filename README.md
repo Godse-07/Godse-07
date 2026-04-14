@@ -90,10 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Classes are objects
-Before delving into metaclasses, a solid grasp of Python classes is beneficial. Python holds a particularly distinctive concept of classes, a notion it adopts from the Smalltalk la..."
+"You can use a for…in loop with an Object.hasOwn (ECMA 2022+) test to check whether an object has any own properties:
+function isEmpty(obj) {
+  for (const prop in obj) {
+    if (Object.hasOwn(obj, prop..."
 
-👍 9333 upvotes
+👍 7557 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
