@@ -90,12 +90,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"You can use a for…in loop with an Object.hasOwn (ECMA 2022+) test to check whether an object has any own properties:
-function isEmpty(obj) {
-  for (const prop in obj) {
-    if (Object.hasOwn(obj, prop..."
+"For JSON text:
+application/json
 
-👍 7557 upvotes
+
+The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
+
+For JSONP (runnable JavaScript) with callback:
+application/j..."
+
+👍 11611 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
