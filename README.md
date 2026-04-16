@@ -90,16 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For JSON text:
-application/json
+"Find the index of the array element you want to remove using indexOf, and then remove that index with splice.
 
+The splice() method changes the contents of an array by removing
+existing elements and/or..."
 
-The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
-
-For JSONP (runnable JavaScript) with callback:
-application/j..."
-
-👍 11611 upvotes
+👍 17022 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
