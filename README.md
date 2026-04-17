@@ -90,12 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Find the index of the array element you want to remove using indexOf, and then remove that index with splice.
+"The notion that regex doesn't support inverse matching is not entirely true. You can mimic this behavior by using negative look-arounds:
+^((?!hede).)*$
 
-The splice() method changes the contents of an array by removing
-existing elements and/or..."
+The regex above will match any string, or line ..."
 
-👍 17022 upvotes
+👍 7566 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
