@@ -90,12 +90,20 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The notion that regex doesn't support inverse matching is not entirely true. You can mimic this behavior by using negative look-arounds:
-^((?!hede).)*$
+"
+TL;DR
 
-The regex above will match any string, or line ..."
+Your best bets are usually
 
-👍 7566 upvotes
+a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly
+for (const element of theArray) {
+    // ...use `element`...
+}
+
+
+forEach (ES5+ only; spec | MDN..."
+
+👍 8601 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
