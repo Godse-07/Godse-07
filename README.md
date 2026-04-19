@@ -90,20 +90,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-TL;DR
+"To unstage a specific file
+git reset &lt;file&gt;
 
-Your best bets are usually
+That will remove the file from the current index (the &quot;about to be committed&quot; list) without changing anything else.
+To unstage all files fr..."
 
-a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly
-for (const element of theArray) {
-    // ...use `element`...
-}
-
-
-forEach (ES5+ only; spec | MDN..."
-
-👍 8601 upvotes
+👍 13887 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
