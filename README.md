@@ -90,13 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To unstage a specific file
-git reset &lt;file&gt;
+"Find the index of the array element you want to remove using indexOf, and then remove that index with splice.
 
-That will remove the file from the current index (the &quot;about to be committed&quot; list) without changing anything else.
-To unstage all files fr..."
+The splice() method changes the contents of an array by removing
+existing elements and/or..."
 
-👍 13887 upvotes
+👍 17022 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
