@@ -90,12 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Find the index of the array element you want to remove using indexOf, and then remove that index with splice.
+"How can I merge two Python dictionaries in a single expression?
+For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
 
-The splice() method changes the contents of an array by removing
-existing elements and/or..."
+In Python 3.9.0 or greater (..."
 
-👍 17022 upvotes
+👍 9411 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
