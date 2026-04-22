@@ -90,12 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"How can I merge two Python dictionaries in a single expression?
-For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
+"You can use a for…in loop with an Object.hasOwn (ECMA 2022+) test to check whether an object has any own properties:
+function isEmpty(obj) {
+  for (const prop in obj) {
+    if (Object.hasOwn(obj, prop..."
 
-In Python 3.9.0 or greater (..."
-
-👍 9411 upvotes
+👍 7558 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
