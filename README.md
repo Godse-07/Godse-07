@@ -90,12 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"You can use a for…in loop with an Object.hasOwn (ECMA 2022+) test to check whether an object has any own properties:
-function isEmpty(obj) {
-  for (const prop in obj) {
-    if (Object.hasOwn(obj, prop..."
+"UPDATE January, 2017:
+According to Can I use, the user-select + -webkit-user-select for Safari is enough to achieve desired behavior in all major browsers.
 
-👍 7558 upvotes
+These are all of the available correct CSS ..."
+
+👍 8653 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
