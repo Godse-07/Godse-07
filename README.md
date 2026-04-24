@@ -90,12 +90,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"UPDATE January, 2017:
-According to Can I use, the user-select + -webkit-user-select for Safari is enough to achieve desired behavior in all major browsers.
+"You can push an 'empty' reference to the remote tag name:
+git push origin :tagname
 
-These are all of the available correct CSS ..."
+Or, more expressively, use the --delete option (or -d if your git version is older than 1.8.0):
+git push --delete or..."
 
-👍 8653 upvotes
+👍 8342 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
