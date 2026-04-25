@@ -90,13 +90,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"You can push an 'empty' reference to the remote tag name:
-git push origin :tagname
+"In Git 1.7.0 and later, you can checkout a new branch:
+git checkout -b &lt;branch&gt;
 
-Or, more expressively, use the --delete option (or -d if your git version is older than 1.8.0):
-git push --delete or..."
+Edit files, add and commit. Then push with the -u (short for --set-upstream) option:
+git push -u origin &lt;branc..."
 
-👍 8342 upvotes
+👍 8671 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
