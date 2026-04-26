@@ -90,13 +90,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"In Git 1.7.0 and later, you can checkout a new branch:
-git checkout -b &lt;branch&gt;
+"To understand what yield does, you must understand what generators are. And before you can understand generators, you must understand iterables.
+Iterables
+When you create a list, you can read its item..."
 
-Edit files, add and commit. Then push with the -u (short for --set-upstream) option:
-git push -u origin &lt;branc..."
-
-👍 8671 upvotes
+👍 18308 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
