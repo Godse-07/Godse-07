@@ -90,11 +90,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To understand what yield does, you must understand what generators are. And before you can understand generators, you must understand iterables.
-Iterables
-When you create a list, you can read its item..."
+"Use URLSearchParams to get parameters from the query string.
+For example:
+const urlParams = new URLSearchParams(window.location.search);
+const myParam = urlParams.get('myParam');
 
-👍 18308 upvotes
+Update: Jan-2022
+Usi..."
+
+👍 10676 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
