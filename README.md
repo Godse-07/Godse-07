@@ -90,15 +90,10 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Use URLSearchParams to get parameters from the query string.
-For example:
-const urlParams = new URLSearchParams(window.location.search);
-const myParam = urlParams.get('myParam');
+"Undoing a commit is a little scary if you don't know how it works.  But it's actually amazingly easy if you do understand. I'll show you the 4 different ways you can undo a commit.
+Say you have this, ..."
 
-Update: Jan-2022
-Usi..."
-
-👍 10676 upvotes
+👍 13007 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
