@@ -90,12 +90,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Short Answer
-It's boilerplate code that protects users from accidentally invoking the script when they didn't intend to. Here are some common problems when the guard is omitted from a script:
+"Do the following:
+grep -rnw '/path/to/somewhere/' -e 'pattern'
 
-If you ..."
 
-👍 9052 upvotes
+-r or -R is recursive,
+-n is line number, and
+-w stands for match the whole word.
+-l (lower-case L) can be added to just give the file ..."
+
+👍 14051 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
