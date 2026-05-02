@@ -90,16 +90,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Do the following:
-grep -rnw '/path/to/somewhere/' -e 'pattern'
+"To unstage a specific file
+git reset &lt;file&gt;
 
+That will remove the file from the current index (the &quot;about to be committed&quot; list) without changing anything else.
+To unstage all files fr..."
 
--r or -R is recursive,
--n is line number, and
--w stands for match the whole word.
--l (lower-case L) can be added to just give the file ..."
-
-👍 14051 upvotes
+👍 13890 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
