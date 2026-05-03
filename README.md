@@ -90,13 +90,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To unstage a specific file
-git reset &lt;file&gt;
+"For JSON text:
+application/json
 
-That will remove the file from the current index (the &quot;about to be committed&quot; list) without changing anything else.
-To unstage all files fr..."
 
-👍 13890 upvotes
+The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
+
+For JSONP (runnable JavaScript) with callback:
+application/j..."
+
+👍 11611 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
