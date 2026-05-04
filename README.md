@@ -90,16 +90,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For JSON text:
-application/json
+"WARNING: You need to store uncommitted edits to your stash before doing this, using git stash. Once complete, you can retrieve the stashed uncommitted edits with git stash pop. git reset hard command ..."
 
-
-The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
-
-For JSONP (runnable JavaScript) with callback:
-application/j..."
-
-👍 11611 upvotes
+👍 8648 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
