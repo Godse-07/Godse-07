@@ -90,9 +90,10 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"WARNING: You need to store uncommitted edits to your stash before doing this, using git stash. Once complete, you can retrieve the stashed uncommitted edits with git stash pop. git reset hard command ..."
+"Undoing a commit is a little scary if you don't know how it works.  But it's actually amazingly easy if you do understand. I'll show you the 4 different ways you can undo a commit.
+Say you have this, ..."
 
-👍 8648 upvotes
+👍 13007 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
