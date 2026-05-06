@@ -90,10 +90,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Undoing a commit is a little scary if you don't know how it works.  But it's actually amazingly easy if you do understand. I'll show you the 4 different ways you can undo a commit.
-Say you have this, ..."
+"Short Answer
+It's boilerplate code that protects users from accidentally invoking the script when they didn't intend to. Here are some common problems when the guard is omitted from a script:
 
-👍 13007 upvotes
+If you ..."
+
+👍 9052 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
