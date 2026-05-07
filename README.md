@@ -90,12 +90,14 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Short Answer
-It's boilerplate code that protects users from accidentally invoking the script when they didn't intend to. Here are some common problems when the guard is omitted from a script:
+"Use the in operator:
+if &quot;blah&quot; not in somestring: 
+    continue
 
-If you ..."
+Note: This is case-sensitive.
+..."
 
-👍 9052 upvotes
+👍 8676 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
