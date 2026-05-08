@@ -90,14 +90,14 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Use the in operator:
-if &quot;blah&quot; not in somestring: 
-    continue
+"Setting your branch to exactly match the remote branch can be done in two steps:
 
-Note: This is case-sensitive.
-..."
+git fetch origin
+git reset --hard origin/master
 
-👍 8676 upvotes
+If you want to save your current branch's state before doing this (ju..."
+
+👍 10327 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
