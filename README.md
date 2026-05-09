@@ -90,14 +90,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Setting your branch to exactly match the remote branch can be done in two steps:
+"For all unstaged files in current working directory use:
+git restore .
 
-git fetch origin
-git reset --hard origin/master
+For a specific file use:
+git restore path/to/file/to/revert
 
-If you want to save your current branch's state before doing this (ju..."
+That together with git switch replaces the overloaded git checkout ..."
 
-👍 10327 upvotes
+👍 7512 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
