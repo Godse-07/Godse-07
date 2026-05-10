@@ -90,15 +90,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For all unstaged files in current working directory use:
-git restore .
+"To understand what yield does, you must understand what generators are. And before you can understand generators, you must understand iterables.
+Iterables
+When you create a list, you can read its item..."
 
-For a specific file use:
-git restore path/to/file/to/revert
-
-That together with git switch replaces the overloaded git checkout ..."
-
-👍 7512 upvotes
+👍 18311 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
