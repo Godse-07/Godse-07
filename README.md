@@ -88,11 +88,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To understand what yield does, you must understand what generators are. And before you can understand generators, you must understand iterables.
-Iterables
-When you create a list, you can read its item..."
+"In the simplest terms, git pull does a git fetch followed by a git merge.
 
-👍 18311 upvotes
+git fetch updates your remote-tracking branches under refs/remotes/&lt;remote&gt;/. This operation is safe to run at any time..."
+
+👍 11702 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
