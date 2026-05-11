@@ -26,14 +26,12 @@
 
 - ⚡ Fun fact **It's not a bug-It's an undocumented feature.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_am_pushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_pushan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pushan-mukhopadhyay-2b326a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushan mukhopadhyay" height="30" width="40" /></a>
-<a href="https://medium.com/@mukhopadhyaypushan42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pushan mukhopadhyay" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mukhopadhyaypushan42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mukhopadhyaypushan42" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/godse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="godse" height="30" width="40" /></a>
-</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2 align="center">🧰 Languages & Tools</h2>
 
