@@ -88,11 +88,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"In the simplest terms, git pull does a git fetch followed by a git merge.
+"It’s a holdover from the Netscape days:
 
-git fetch updates your remote-tracking branches under refs/remotes/&lt;remote&gt;/. This operation is safe to run at any time..."
+Missing digits are treated as 0[...]. An incorrect digit is simply interpreted as 0. For example the values #F0F0F0, F0F0F0, F0F0F, #FxFxFx and FxFxFx are all ..."
 
-👍 11702 upvotes
+👍 8248 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
