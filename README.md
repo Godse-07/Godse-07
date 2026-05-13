@@ -88,11 +88,14 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"It’s a holdover from the Netscape days:
+"To obtain only the remote URL:
+git config --get remote.origin.url
 
-Missing digits are treated as 0[...]. An incorrect digit is simply interpreted as 0. For example the values #F0F0F0, F0F0F0, F0F0F, #FxFxFx and FxFxFx are all ..."
+If you require full output, and you are on a network that can reach the remote repo where the origin resides:
+git remote show origin
+..."
 
-👍 8248 upvotes
+👍 8018 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
