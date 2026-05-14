@@ -88,14 +88,17 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To obtain only the remote URL:
-git config --get remote.origin.url
+"To rename the current branch:
+git branch -m &lt;newname&gt;
 
-If you require full output, and you are on a network that can reach the remote repo where the origin resides:
-git remote show origin
-..."
+To rename a branch while pointed to any branch:
+git branch -m &lt;oldname&gt; &lt;newname&gt;
 
-👍 8018 upvotes
+-m is short for --move.
+
+To push the  local ..."
+
+👍 19746 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
