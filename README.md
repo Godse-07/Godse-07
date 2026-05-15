@@ -88,17 +88,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To rename the current branch:
-git branch -m &lt;newname&gt;
+"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as ..."
 
-To rename a branch while pointed to any branch:
-git branch -m &lt;oldname&gt; &lt;newname&gt;
-
--m is short for --move.
-
-To push the  local ..."
-
-👍 19746 upvotes
+👍 11969 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
