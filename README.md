@@ -88,11 +88,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"It’s a holdover from the Netscape days:
+"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as ..."
 
-Missing digits are treated as 0[...]. An incorrect digit is simply interpreted as 0. For example the values #F0F0F0, F0F0F0, F0F0F, #FxFxFx and FxFxFx are all ..."
-
-👍 8248 upvotes
+👍 11969 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
