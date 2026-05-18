@@ -88,9 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as ..."
+"UPDATE January, 2017:
+According to Can I use, the user-select + -webkit-user-select for Safari is enough to achieve desired behavior in all major browsers.
 
-👍 11969 upvotes
+These are all of the available correct CSS ..."
+
+👍 8654 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
