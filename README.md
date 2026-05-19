@@ -88,12 +88,10 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"UPDATE January, 2017:
-According to Can I use, the user-select + -webkit-user-select for Safari is enough to achieve desired behavior in all major browsers.
+"It's a time zone change on December 31st in Shanghai.
+See this page for details of 1927 in Shanghai. Basically at midnight at the end of 1927, the clocks went back 5 minutes and 52 seconds. So &quot;1..."
 
-These are all of the available correct CSS ..."
-
-👍 8654 upvotes
+👍 11941 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
