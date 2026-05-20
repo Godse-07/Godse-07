@@ -88,10 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"It's a time zone change on December 31st in Shanghai.
-See this page for details of 1927 in Shanghai. Basically at midnight at the end of 1927, the clocks went back 5 minutes and 52 seconds. So &quot;1..."
+"Yes, it was added in version 2.5. The expression syntax is:
+a if condition else b
 
-👍 11941 upvotes
+First condition is evaluated, then exactly one of either a or b is evaluated and returned based on the Boolean value ..."
+
+👍 9355 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
