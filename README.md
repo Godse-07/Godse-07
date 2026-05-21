@@ -88,12 +88,17 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Yes, it was added in version 2.5. The expression syntax is:
-a if condition else b
+"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
 
-First condition is evaluated, then exactly one of either a or b is evaluated and returned based on the Boolean value ..."
 
-👍 9355 upvotes
+Example:
+
+git clone -b my-branch git@github.com:user/myproject.git
+
+
+With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
+
+👍 9233 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
