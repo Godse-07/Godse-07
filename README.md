@@ -88,17 +88,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
+"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as ..."
 
-
-Example:
-
-git clone -b my-branch git@github.com:user/myproject.git
-
-
-With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
-
-👍 9233 upvotes
+👍 11969 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
