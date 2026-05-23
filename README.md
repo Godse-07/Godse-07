@@ -88,9 +88,10 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as ..."
+"Undoing a commit is a little scary if you don't know how it works.  But it's actually amazingly easy if you do understand. I'll show you the 4 different ways you can undo a commit.
+Say you have this, ..."
 
-👍 11969 upvotes
+👍 13005 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
