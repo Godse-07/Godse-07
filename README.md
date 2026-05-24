@@ -88,10 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Undoing a commit is a little scary if you don't know how it works.  But it's actually amazingly easy if you do understand. I'll show you the 4 different ways you can undo a commit.
-Say you have this, ..."
+"
+git-clean - Remove untracked files from the working tree
+Synopsis
+git clean [-d] [-f] [-i] [-n] [-q] [-e &lt;pattern&gt;] [-x | -X] [--] &lt;path&gt;…​
 
-👍 13005 upvotes
+Description
+Cleans the working tree by recursi..."
+
+👍 10103 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
