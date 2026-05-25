@@ -88,15 +88,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-git-clean - Remove untracked files from the working tree
-Synopsis
-git clean [-d] [-f] [-i] [-n] [-q] [-e &lt;pattern&gt;] [-x | -X] [--] &lt;path&gt;…​
+"Do the following:
+grep -rnw '/path/to/somewhere/' -e 'pattern'
 
-Description
-Cleans the working tree by recursi..."
 
-👍 10103 upvotes
+-r or -R is recursive,
+-n is line number, and
+-w stands for match the whole word.
+-l (lower-case L) can be added to just give the file ..."
+
+👍 14050 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
