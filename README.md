@@ -88,16 +88,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Do the following:
-grep -rnw '/path/to/somewhere/' -e 'pattern'
+"The correct way to avoid SQL injection attacks, no matter which database you use, is to separate the data from SQL, so that data stays data and will never be interpreted as commands by the SQL parser...."
 
-
--r or -R is recursive,
--n is line number, and
--w stands for match the whole word.
--l (lower-case L) can be added to just give the file ..."
-
-👍 14050 upvotes
+👍 9707 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
