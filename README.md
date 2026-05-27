@@ -88,9 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The correct way to avoid SQL injection attacks, no matter which database you use, is to separate the data from SQL, so that data stays data and will never be interpreted as commands by the SQL parser...."
+"First, view the existing remotes to verify which URL is currently set:
+git remote -v
 
-👍 9707 upvotes
+Then, you can set it with:
+git remote set-url origin &lt;NEW_GIT_URL_HERE&gt;
+
+See git help remote. You also can e..."
+
+👍 11218 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
