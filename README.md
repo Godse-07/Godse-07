@@ -88,15 +88,17 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"First, view the existing remotes to verify which URL is currently set:
-git remote -v
+"To rename the current branch:
+git branch -m &lt;newname&gt;
 
-Then, you can set it with:
-git remote set-url origin &lt;NEW_GIT_URL_HERE&gt;
+To rename a branch while pointed to any branch:
+git branch -m &lt;oldname&gt; &lt;newname&gt;
 
-See git help remote. You also can e..."
+-m is short for --move.
 
-👍 11218 upvotes
+To push the  local ..."
+
+👍 19755 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
