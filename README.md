@@ -88,17 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To rename the current branch:
-git branch -m &lt;newname&gt;
+"#!/usr/bin/env bash
 
-To rename a branch while pointed to any branch:
-git branch -m &lt;oldname&gt; &lt;newname&gt;
+SCRIPT_DIR=$( cd -- &quot;$( dirname -- &quot;${BASH_SOURCE[0]}&quot; )&quot; &amp;&gt; /dev/null &amp;&amp; pwd )
 
--m is short for --move.
+is a useful one-liner which will give you the full directory na..."
 
-To push the  local ..."
-
-👍 19755 upvotes
+👍 8311 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
