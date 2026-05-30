@@ -88,13 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"#!/usr/bin/env bash
+"The notion that regex doesn't support inverse matching is not entirely true. You can mimic this behavior by using negative look-arounds:
+^((?!hede).)*$
 
-SCRIPT_DIR=$( cd -- &quot;$( dirname -- &quot;${BASH_SOURCE[0]}&quot; )&quot; &amp;&gt; /dev/null &amp;&amp; pwd )
+The regex above will match any string, or line ..."
 
-is a useful one-liner which will give you the full directory na..."
-
-👍 8311 upvotes
+👍 7570 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
