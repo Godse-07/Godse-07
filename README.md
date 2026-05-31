@@ -88,12 +88,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The notion that regex doesn't support inverse matching is not entirely true. You can mimic this behavior by using negative look-arounds:
-^((?!hede).)*$
+"The correct way to avoid SQL injection attacks, no matter which database you use, is to separate the data from SQL, so that data stays data and will never be interpreted as commands by the SQL parser...."
 
-The regex above will match any string, or line ..."
-
-👍 7570 upvotes
+👍 9707 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
