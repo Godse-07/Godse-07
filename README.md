@@ -88,9 +88,17 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The correct way to avoid SQL injection attacks, no matter which database you use, is to separate the data from SQL, so that data stays data and will never be interpreted as commands by the SQL parser...."
+"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
 
-👍 9707 upvotes
+
+Example:
+
+git clone -b my-branch git@github.com:user/myproject.git
+
+
+With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
+
+👍 9234 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
