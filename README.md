@@ -88,17 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
+"Executive Summary
+git push -d &lt;remote_name&gt; &lt;branchname&gt;   # Delete remote
+git branch -d &lt;branchname&gt;               # Delete local
 
+Note: In most cases, &lt;remote_name&gt; will be o..."
 
-Example:
-
-git clone -b my-branch git@github.com:user/myproject.git
-
-
-With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
-
-👍 9234 upvotes
+👍 26863 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
