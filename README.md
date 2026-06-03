@@ -88,13 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Executive Summary
-git push -d &lt;remote_name&gt; &lt;branchname&gt;   # Delete remote
-git branch -d &lt;branchname&gt;               # Delete local
+"How can I merge two Python dictionaries in a single expression?
+For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
 
-Note: In most cases, &lt;remote_name&gt; will be o..."
+In Python 3.9.0 or greater (..."
 
-👍 26863 upvotes
+👍 9411 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
