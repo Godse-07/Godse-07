@@ -88,12 +88,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"How can I merge two Python dictionaries in a single expression?
-For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
+"For JSON text:
+application/json
 
-In Python 3.9.0 or greater (..."
 
-👍 9411 upvotes
+The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
+
+For JSONP (runnable JavaScript) with callback:
+application/j..."
+
+👍 11614 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
