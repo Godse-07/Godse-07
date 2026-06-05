@@ -88,16 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For JSON text:
-application/json
+"Undo a commit &amp; redo
+$ git commit -m &quot;Something terribly misguided&quot; # (0: Your Accident)
+$ git reset HEAD~                              # (1)
+# === If you just want to undo the commit, s..."
 
-
-The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
-
-For JSONP (runnable JavaScript) with callback:
-application/j..."
-
-👍 11614 upvotes
+👍 30122 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
