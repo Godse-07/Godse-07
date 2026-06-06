@@ -88,12 +88,14 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Undo a commit &amp; redo
-$ git commit -m &quot;Something terribly misguided&quot; # (0: Your Accident)
-$ git reset HEAD~                              # (1)
-# === If you just want to undo the commit, s..."
+"Use the in operator:
+if &quot;blah&quot; not in somestring: 
+    continue
 
-👍 30122 upvotes
+Note: This is case-sensitive.
+..."
+
+👍 8681 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
