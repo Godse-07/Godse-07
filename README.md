@@ -88,14 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Use the in operator:
-if &quot;blah&quot; not in somestring: 
-    continue
+"Amending the most recent commit message
+git commit --amend
 
-Note: This is case-sensitive.
-..."
+will open your editor, allowing you to change the commit message of the most recent commit. Additionally, you can set the commit message dir..."
 
-👍 8681 upvotes
+👍 19119 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
