@@ -88,12 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Amending the most recent commit message
-git commit --amend
+"First, view the existing remotes to verify which URL is currently set:
+git remote -v
 
-will open your editor, allowing you to change the commit message of the most recent commit. Additionally, you can set the commit message dir..."
+Then, you can set it with:
+git remote set-url origin &lt;NEW_GIT_URL_HERE&gt;
 
-👍 19119 upvotes
+See git help remote. You also can e..."
+
+👍 11223 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
