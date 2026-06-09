@@ -88,15 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"First, view the existing remotes to verify which URL is currently set:
-git remote -v
+"Find the index of the array element you want to remove using indexOf, and then remove that index with splice.
 
-Then, you can set it with:
-git remote set-url origin &lt;NEW_GIT_URL_HERE&gt;
+The splice() method changes the contents of an array by removing
+existing elements and/or..."
 
-See git help remote. You also can e..."
-
-👍 11223 upvotes
+👍 17032 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
