@@ -88,11 +88,14 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"In the simplest terms, git pull does a git fetch followed by a git merge.
+"To obtain only the remote URL:
+git config --get remote.origin.url
 
-git fetch updates your remote-tracking branches under refs/remotes/&lt;remote&gt;/. This operation is safe to run at any time..."
+If you require full output, and you are on a network that can reach the remote repo where the origin resides:
+git remote show origin
+..."
 
-👍 11709 upvotes
+👍 8022 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
