@@ -88,14 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"To obtain only the remote URL:
-git config --get remote.origin.url
+"Use URLSearchParams to get parameters from the query string.
+For example:
+const urlParams = new URLSearchParams(window.location.search);
+const myParam = urlParams.get('myParam');
 
-If you require full output, and you are on a network that can reach the remote repo where the origin resides:
-git remote show origin
-..."
+Update: Jan-2022
+Usi..."
 
-👍 8022 upvotes
+👍 10680 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
