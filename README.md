@@ -88,15 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Use URLSearchParams to get parameters from the query string.
-For example:
-const urlParams = new URLSearchParams(window.location.search);
-const myParam = urlParams.get('myParam');
+"Assuming the hash of the commit you want is c5f567:
+git restore --source=c5f567 file1/to/restore file2/to/restore
 
-Update: Jan-2022
-Usi..."
+The git restore man page gives more information.
+If you want to revert to the commit ..."
 
-👍 10680 upvotes
+👍 7922 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
