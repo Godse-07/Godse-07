@@ -88,13 +88,19 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Assuming the hash of the commit you want is c5f567:
-git restore --source=c5f567 file1/to/restore file2/to/restore
+"ECMAScript 6  introduced String.prototype.includes:
 
-The git restore man page gives more information.
-If you want to revert to the commit ..."
 
-👍 7922 upvotes
+const string = "foo";
+const substring = "oo";
+
+console.log(string.includes(substring)); // true
+
+
+
+String.prototype.includes is case-sensitiv..."
+
+👍 16095 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
