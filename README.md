@@ -88,19 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"ECMAScript 6  introduced String.prototype.includes:
+"Amending the most recent commit message
+git commit --amend
 
+will open your editor, allowing you to change the commit message of the most recent commit. Additionally, you can set the commit message dir..."
 
-const string = "foo";
-const substring = "oo";
-
-console.log(string.includes(substring)); // true
-
-
-
-String.prototype.includes is case-sensitiv..."
-
-👍 16095 upvotes
+👍 19122 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
