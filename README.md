@@ -88,12 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Amending the most recent commit message
-git commit --amend
+"In Git 1.7.0 and later, you can checkout a new branch:
+git checkout -b &lt;branch&gt;
 
-will open your editor, allowing you to change the commit message of the most recent commit. Additionally, you can set the commit message dir..."
+Edit files, add and commit. Then push with the -u (short for --set-upstream) option:
+git push -u origin &lt;branc..."
 
-👍 19122 upvotes
+👍 8673 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
