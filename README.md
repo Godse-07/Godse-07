@@ -88,13 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"In Git 1.7.0 and later, you can checkout a new branch:
-git checkout -b &lt;branch&gt;
+"You are a victim of branch prediction fail.
 
-Edit files, add and commit. Then push with the -u (short for --set-upstream) option:
-git push -u origin &lt;branc..."
+What is Branch Prediction?
+Consider a railroad junction:
 
-👍 8673 upvotes
+Image by Mecanismo, via Wikimedia Commons. Used under the CC-By-SA 3.0 license.
+Now for the sake ..."
+
+👍 35286 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
