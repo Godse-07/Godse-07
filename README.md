@@ -88,15 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"You are a victim of branch prediction fail.
+"function capitalizeFirstLetter(val) {
+    return String(val).charAt(0).toUpperCase() + String(val).slice(1);
+}
 
-What is Branch Prediction?
-Consider a railroad junction:
+Some other answers modify String.prototype (this answer used to as well), but I would ad..."
 
-Image by Mecanismo, via Wikimedia Commons. Used under the CC-By-SA 3.0 license.
-Now for the sake ..."
-
-👍 35286 upvotes
+👍 8185 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
