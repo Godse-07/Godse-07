@@ -88,13 +88,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"function capitalizeFirstLetter(val) {
-    return String(val).charAt(0).toUpperCase() + String(val).slice(1);
-}
+"WARNING: You need to store uncommitted edits to your stash before doing this, using git stash. Once complete, you can retrieve the stashed uncommitted edits with git stash pop. git reset hard command ..."
 
-Some other answers modify String.prototype (this answer used to as well), but I would ad..."
-
-👍 8185 upvotes
+👍 8650 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
