@@ -88,9 +88,20 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"WARNING: You need to store uncommitted edits to your stash before doing this, using git stash. Once complete, you can retrieve the stashed uncommitted edits with git stash pop. git reset hard command ..."
+"
+TL;DR
 
-👍 8650 upvotes
+Your best bets are usually
+
+a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly
+for (const element of theArray) {
+    // ...use `element`...
+}
+
+
+forEach (ES5+ only; spec | MDN..."
+
+👍 8606 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
