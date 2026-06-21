@@ -88,20 +88,14 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-TL;DR
+"A closure is a pairing of:
 
-Your best bets are usually
+A function and
+A reference to that function's outer scope (lexical environment)
 
-a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly
-for (const element of theArray) {
-    // ...use `element`...
-}
+A lexical environment is part of every execution context (stack frame) and is a map between..."
 
-
-forEach (ES5+ only; spec | MDN..."
-
-👍 8606 upvotes
+👍 8350 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
