@@ -88,14 +88,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"A closure is a pairing of:
+"For JSON text:
+application/json
 
-A function and
-A reference to that function's outer scope (lexical environment)
 
-A lexical environment is part of every execution context (stack frame) and is a map between..."
+The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
 
-👍 8350 upvotes
+For JSONP (runnable JavaScript) with callback:
+application/j..."
+
+👍 11613 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
