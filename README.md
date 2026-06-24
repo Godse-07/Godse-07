@@ -88,16 +88,20 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For JSON text:
-application/json
+"
+TL;DR
+
+Your best bets are usually
+
+a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly
+for (const element of theArray) {
+    // ...use `element`...
+}
 
 
-The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
+forEach (ES5+ only; spec | MDN..."
 
-For JSONP (runnable JavaScript) with callback:
-application/j..."
-
-👍 11613 upvotes
+👍 8606 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
