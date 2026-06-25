@@ -88,20 +88,17 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-TL;DR
-
-Your best bets are usually
-
-a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly
-for (const element of theArray) {
-    // ...use `element`...
-}
+"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
 
 
-forEach (ES5+ only; spec | MDN..."
+Example:
 
-👍 8606 upvotes
+git clone -b my-branch git@github.com:user/myproject.git
+
+
+With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
+
+👍 9237 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
