@@ -88,9 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"The correct way to avoid SQL injection attacks, no matter which database you use, is to separate the data from SQL, so that data stays data and will never be interpreted as commands by the SQL parser...."
+"
+git-clean - Remove untracked files from the working tree
+Synopsis
+git clean [-d] [-f] [-i] [-n] [-q] [-e &lt;pattern&gt;] [-x | -X] [--] &lt;path&gt;…​
 
-👍 9708 upvotes
+Description
+Cleans the working tree by recursi..."
+
+👍 10106 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
