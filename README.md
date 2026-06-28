@@ -88,15 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-git-clean - Remove untracked files from the working tree
-Synopsis
-git clean [-d] [-f] [-i] [-n] [-q] [-e &lt;pattern&gt;] [-x | -X] [--] &lt;path&gt;…​
+"UPDATE January, 2017:
+According to Can I use, the user-select + -webkit-user-select for Safari is enough to achieve desired behavior in all major browsers.
 
-Description
-Cleans the working tree by recursi..."
+These are all of the available correct CSS ..."
 
-👍 10106 upvotes
+👍 8654 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
