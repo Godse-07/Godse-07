@@ -88,12 +88,17 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"UPDATE January, 2017:
-According to Can I use, the user-select + -webkit-user-select for Safari is enough to achieve desired behavior in all major browsers.
+"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
 
-These are all of the available correct CSS ..."
 
-👍 8654 upvotes
+Example:
+
+git clone -b my-branch git@github.com:user/myproject.git
+
+
+With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
+
+👍 9237 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
