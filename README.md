@@ -88,17 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
+"Assuming the hash of the commit you want is c5f567:
+git restore --source=c5f567 file1/to/restore file2/to/restore
 
+The git restore man page gives more information.
+If you want to revert to the commit ..."
 
-Example:
-
-git clone -b my-branch git@github.com:user/myproject.git
-
-
-With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
-
-👍 9237 upvotes
+👍 7924 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
