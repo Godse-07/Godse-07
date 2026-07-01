@@ -88,13 +88,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Assuming the hash of the commit you want is c5f567:
-git restore --source=c5f567 file1/to/restore file2/to/restore
+"It’s a holdover from the Netscape days:
 
-The git restore man page gives more information.
-If you want to revert to the commit ..."
+Missing digits are treated as 0[...]. An incorrect digit is simply interpreted as 0. For example the values #F0F0F0, F0F0F0, F0F0F, #FxFxFx and FxFxFx are all ..."
 
-👍 7924 upvotes
+👍 8249 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
