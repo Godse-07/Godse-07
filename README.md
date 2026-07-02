@@ -88,11 +88,9 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"It’s a holdover from the Netscape days:
+"WARNING: You need to store uncommitted edits to your stash before doing this, using git stash. Once complete, you can retrieve the stashed uncommitted edits with git stash pop. git reset hard command ..."
 
-Missing digits are treated as 0[...]. An incorrect digit is simply interpreted as 0. For example the values #F0F0F0, F0F0F0, F0F0F, #FxFxFx and FxFxFx are all ..."
-
-👍 8249 upvotes
+👍 8650 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
