@@ -88,9 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"WARNING: You need to store uncommitted edits to your stash before doing this, using git stash. Once complete, you can retrieve the stashed uncommitted edits with git stash pop. git reset hard command ..."
+"How can I merge two Python dictionaries in a single expression?
+For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
 
-👍 8650 upvotes
+In Python 3.9.0 or greater (..."
+
+👍 9415 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
