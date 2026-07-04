@@ -88,12 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"How can I merge two Python dictionaries in a single expression?
-For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x.
+"function capitalizeFirstLetter(val) {
+    return String(val).charAt(0).toUpperCase() + String(val).slice(1);
+}
 
-In Python 3.9.0 or greater (..."
+Some other answers modify String.prototype (this answer used to as well), but I would ad..."
 
-👍 9415 upvotes
+👍 8187 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
