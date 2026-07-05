@@ -88,13 +88,12 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"function capitalizeFirstLetter(val) {
-    return String(val).charAt(0).toUpperCase() + String(val).slice(1);
-}
+"UPDATE January, 2017:
+According to Can I use, the user-select + -webkit-user-select for Safari is enough to achieve desired behavior in all major browsers.
 
-Some other answers modify String.prototype (this answer used to as well), but I would ad..."
+These are all of the available correct CSS ..."
 
-👍 8187 upvotes
+👍 8654 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
