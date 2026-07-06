@@ -88,12 +88,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"UPDATE January, 2017:
-According to Can I use, the user-select + -webkit-user-select for Safari is enough to achieve desired behavior in all major browsers.
+"For JSON text:
+application/json
 
-These are all of the available correct CSS ..."
 
-👍 8654 upvotes
+The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
+
+For JSONP (runnable JavaScript) with callback:
+application/j..."
+
+👍 11613 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
