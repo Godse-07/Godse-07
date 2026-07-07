@@ -88,16 +88,16 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"For JSON text:
-application/json
+"Do the following:
+grep -rnw '/path/to/somewhere/' -e 'pattern'
 
 
-The MIME media type for JSON text is application/json. The default encoding is UTF-8. (Source: RFC 4627)
+-r or -R is recursive,
+-n is line number, and
+-w stands for match the whole word.
+-l (lower-case L) can be added to just give the file ..."
 
-For JSONP (runnable JavaScript) with callback:
-application/j..."
-
-👍 11613 upvotes
+👍 14049 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
