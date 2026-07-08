@@ -88,16 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Do the following:
-grep -rnw '/path/to/somewhere/' -e 'pattern'
+"In Git 1.7.0 and later, you can checkout a new branch:
+git checkout -b &lt;branch&gt;
 
+Edit files, add and commit. Then push with the -u (short for --set-upstream) option:
+git push -u origin &lt;branc..."
 
--r or -R is recursive,
--n is line number, and
--w stands for match the whole word.
--l (lower-case L) can be added to just give the file ..."
-
-👍 14049 upvotes
+👍 8675 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
