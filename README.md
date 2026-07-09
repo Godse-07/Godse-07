@@ -88,13 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"In Git 1.7.0 and later, you can checkout a new branch:
-git checkout -b &lt;branch&gt;
+"
+git-clean - Remove untracked files from the working tree
+Synopsis
+git clean [-d] [-f] [-i] [-n] [-q] [-e &lt;pattern&gt;] [-x | -X] [--] &lt;path&gt;…​
 
-Edit files, add and commit. Then push with the -u (short for --set-upstream) option:
-git push -u origin &lt;branc..."
+Description
+Cleans the working tree by recursi..."
 
-👍 8675 upvotes
+👍 10108 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
