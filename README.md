@@ -88,15 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-git-clean - Remove untracked files from the working tree
-Synopsis
-git clean [-d] [-f] [-i] [-n] [-q] [-e &lt;pattern&gt;] [-x | -X] [--] &lt;path&gt;…​
+"You are a victim of branch prediction fail.
 
-Description
-Cleans the working tree by recursi..."
+What is Branch Prediction?
+Consider a railroad junction:
 
-👍 10108 upvotes
+Image by Mecanismo, via Wikimedia Commons. Used under the CC-By-SA 3.0 license.
+Now for the sake ..."
+
+👍 35287 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
