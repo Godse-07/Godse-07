@@ -88,15 +88,20 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"You are a victim of branch prediction fail.
+"
+TL;DR
 
-What is Branch Prediction?
-Consider a railroad junction:
+Your best bets are usually
 
-Image by Mecanismo, via Wikimedia Commons. Used under the CC-By-SA 3.0 license.
-Now for the sake ..."
+a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly
+for (const element of theArray) {
+    // ...use `element`...
+}
 
-👍 35287 upvotes
+
+forEach (ES5+ only; spec | MDN..."
+
+👍 8605 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
