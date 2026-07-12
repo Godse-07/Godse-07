@@ -88,20 +88,10 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-TL;DR
+".gitignore will prevent untracked files from being added (without an add -f) to the set of files tracked by Git. However, Git will continue to track any files that are already being tracked.
+To stop t..."
 
-Your best bets are usually
-
-a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly
-for (const element of theArray) {
-    // ...use `element`...
-}
-
-
-forEach (ES5+ only; spec | MDN..."
-
-👍 8605 upvotes
+👍 9320 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
