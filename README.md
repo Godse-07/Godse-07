@@ -88,10 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-".gitignore will prevent untracked files from being added (without an add -f) to the set of files tracked by Git. However, Git will continue to track any files that are already being tracked.
-To stop t..."
+"First, view the existing remotes to verify which URL is currently set:
+git remote -v
 
-👍 9320 upvotes
+Then, you can set it with:
+git remote set-url origin &lt;NEW_GIT_URL_HERE&gt;
+
+See git help remote. You also can e..."
+
+👍 11242 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
