@@ -88,12 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"Find the index of the array element you want to remove using indexOf, and then remove that index with splice.
+"
+⚠ Warning:
+Any uncommitted local change to tracked files will be lost, even if staged.
+But any local file that's not tracked by Git will not be affected.
 
-The splice() method changes the contents of an array by removing
-existing elements and/or..."
 
-👍 17035 upvotes
+First, update all origin/&lt;branch&gt; ref..."
+
+👍 13653 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
