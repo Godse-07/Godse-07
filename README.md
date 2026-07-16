@@ -88,15 +88,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"
-⚠ Warning:
-Any uncommitted local change to tracked files will be lost, even if staged.
-But any local file that's not tracked by Git will not be affected.
+"One does not simply redirect using jQuery
+jQuery is not necessary, and window.location.replace(...) will best simulate an HTTP redirect.
+window.location.replace(...) is better than using window.locati..."
 
-
-First, update all origin/&lt;branch&gt; ref..."
-
-👍 13653 upvotes
+👍 16471 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
