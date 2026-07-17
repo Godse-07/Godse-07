@@ -88,11 +88,13 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"One does not simply redirect using jQuery
-jQuery is not necessary, and window.location.replace(...) will best simulate an HTTP redirect.
-window.location.replace(...) is better than using window.locati..."
+"function capitalizeFirstLetter(val) {
+    return String(val).charAt(0).toUpperCase() + String(val).slice(1);
+}
 
-👍 16471 upvotes
+Some other answers modify String.prototype (this answer used to as well), but I would ad..."
+
+👍 8187 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
