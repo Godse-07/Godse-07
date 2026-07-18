@@ -88,13 +88,15 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"function capitalizeFirstLetter(val) {
-    return String(val).charAt(0).toUpperCase() + String(val).slice(1);
-}
+"First, view the existing remotes to verify which URL is currently set:
+git remote -v
 
-Some other answers modify String.prototype (this answer used to as well), but I would ad..."
+Then, you can set it with:
+git remote set-url origin &lt;NEW_GIT_URL_HERE&gt;
 
-👍 8187 upvotes
+See git help remote. You also can e..."
+
+👍 11243 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
