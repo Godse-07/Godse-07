@@ -88,15 +88,11 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"First, view the existing remotes to verify which URL is currently set:
-git remote -v
+"One does not simply redirect using jQuery
+jQuery is not necessary, and window.location.replace(...) will best simulate an HTTP redirect.
+window.location.replace(...) is better than using window.locati..."
 
-Then, you can set it with:
-git remote set-url origin &lt;NEW_GIT_URL_HERE&gt;
-
-See git help remote. You also can e..."
-
-👍 11243 upvotes
+👍 16471 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
