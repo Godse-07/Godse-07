@@ -88,11 +88,17 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"One does not simply redirect using jQuery
-jQuery is not necessary, and window.location.replace(...) will best simulate an HTTP redirect.
-window.location.replace(...) is better than using window.locati..."
+"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
 
-👍 16471 upvotes
+
+Example:
+
+git clone -b my-branch git@github.com:user/myproject.git
+
+
+With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
+
+👍 9240 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
