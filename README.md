@@ -88,17 +88,10 @@
 
 ## 💡 Random StackOverflow Wisdom
 
-"git clone -b &lt;branch&gt; &lt;remote_repo&gt;
+"Undoing a commit is a little scary if you don't know how it works.  But it's actually amazingly easy if you do understand. I'll show you the 4 different ways you can undo a commit.
+Say you have this, ..."
 
-
-Example:
-
-git clone -b my-branch git@github.com:user/myproject.git
-
-
-With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."
-
-👍 9240 upvotes
+👍 13009 upvotes
 
 <!--END_SECTION:stackoverflow-->
 
