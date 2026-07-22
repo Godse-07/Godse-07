@@ -105,16 +105,5 @@ Say you have this, ..."
 - [Master Theorem for TIME COMPLEXITY](https://medium.com/@mukhopadhyaypushan42/master-theorem-for-time-complexity-14bb54ac3930?source=rss-305d9dc4b292------2)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/Godse-07/Godse-07/output/pacman-contribution-graph.svg">
-</picture>
-
 
 
