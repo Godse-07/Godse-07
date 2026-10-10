@@ -1,1 +1,37 @@
+name: Chess
 
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: chess
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --prefix chess
+      - run: node chess/play.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.repository }}
+      - name: Commit
+        run: |
+          git config user.name "chess-bot"
+          git config user.email "chess-bot@users.noreply.github.com"
+          git add README.md chess/state.json
+          git diff --cached --quiet || (git commit -m "♟️ Chess move" && git pull --rebase && git push)
