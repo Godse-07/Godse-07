@@ -97,7 +97,7 @@
   🟦 <b>Player 1: me</b> (blue) vs 🟧 <b>Player 2: every visitor</b> (orange)<br>
   One move per visitor per game, no undo.<br>
   Find your piece in the table, click where it should go, and press <b>Create</b> on the issue page.<br>
-  The board updates in about 30 seconds.
+  The board updates in about 30 seconds / 1 minute.
 </p>
 
 <!-- CHESS:START -->
