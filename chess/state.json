@@ -1,11 +1,13 @@
 {
-  "fen": "rnbqkb1r/pppppppp/7n/8/4P3/7N/PPPP1PPP/RNBQKB1R b KQkq - 2 2",
-  "history": [
-    "e4",
-    "Nh6",
-    "Nh3"
-  ],
-  "players": [
-    "MergeMind-7"
-  ]
+  "game": 1,
+  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "moves": [],
+  "players": [],
+  "stats": {
+    "games": 0,
+    "ownerWins": 0,
+    "visitorWins": 0,
+    "draws": 0,
+    "top": {}
+  }
 }
