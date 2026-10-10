@@ -94,11 +94,15 @@
 <h2 align="center">♟️ Play Chess With Me</h2>
 
 <p align="center">
-  I play <b>white</b>, every visitor plays <b>black</b>. One move per visitor, no undo.<br>
-  Click a move, press <b>Create</b> on the issue page, and the board updates in about 30 seconds.
+  🟦 <b>Player 1: me</b> (blue) vs 🟧 <b>Player 2: every visitor</b> (orange)<br>
+  One move per visitor per game, no undo.<br>
+  Find your piece in the table, click where it should go, and press <b>Create</b> on the issue page.<br>
+  The board updates in about 30 seconds.
 </p>
 
 <!-- CHESS:START -->
+<!-- CHESS:END -->
+
 <div align="center">
 
 <table align="center">
