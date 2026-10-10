@@ -100,8 +100,13 @@ if (action === 'render') {
   const whiteTurn = game.turn() === 'w';
   if (whiteTurn && !isOwner) reject("It's the owner's turn (Player 1). Come back after their move!");
   if (!whiteTurn && isOwner) reject("It's a visitor's turn (Player 2). Wait for someone to move!");
-  if (!whiteTurn && state.players.includes(ISSUE_AUTHOR)) {
-    reject('You already played a move in this game. One move per visitor!');
+   const COOLDOWN_HOURS = 24;
+  const lastMine = [...state.moves].reverse().find((m) => m.by === ISSUE_AUTHOR && m.color === 'b');
+  if (!whiteTurn && lastMine?.at) {
+    const hrs = (Date.now() - new Date(lastMine.at).getTime()) / 36e5;
+    if (hrs < COOLDOWN_HOURS) {
+      reject(`You can play again in about ${Math.ceil(COOLDOWN_HOURS - hrs)} hour(s).`);
+    }
   }
 
   let played;
