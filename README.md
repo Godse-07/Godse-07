@@ -101,6 +101,42 @@
 </p>
 
 <!-- CHESS:START -->
+<div align="center">
+
+🟦 <b>Player 1:</b> <a href="https://github.com/Godse-07">@Godse-07</a> (blue) &nbsp;vs&nbsp; 🟧 <b>Player 2:</b> every visitor (orange)
+
+<img src="https://raw.githubusercontent.com/Godse-07/Godse-07/main/chess/board.svg?v=1-0" width="440" alt="Chess board">
+
+🟦 <b>Player 1's turn</b>, waiting for <a href="https://github.com/Godse-07">@Godse-07</a>
+
+No moves yet. A new game just started.
+
+<details open>
+<summary><b>♟️ Choose a move</b> (click a square, then press "Create")</summary>
+
+<table align="center">
+<tr><th>Piece</th><th>At</th><th>Move to</th></tr>
+<tr><td>♞&#xFE0E; Knight</td><td align="center"><b>b1</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cb1a3&amp;body=Click%20%22Create%22%20to%20play%20Na3.%20Please%20don't%20edit%20the%20title.">a3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cb1c3&amp;body=Click%20%22Create%22%20to%20play%20Nc3.%20Please%20don't%20edit%20the%20title.">c3</a></td></tr>
+<tr><td>♞&#xFE0E; Knight</td><td align="center"><b>g1</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cg1f3&amp;body=Click%20%22Create%22%20to%20play%20Nf3.%20Please%20don't%20edit%20the%20title.">f3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cg1h3&amp;body=Click%20%22Create%22%20to%20play%20Nh3.%20Please%20don't%20edit%20the%20title.">h3</a></td></tr>
+<tr><td>♟&#xFE0E; Pawn</td><td align="center"><b>a2</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Ca2a3&amp;body=Click%20%22Create%22%20to%20play%20a3.%20Please%20don't%20edit%20the%20title.">a3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Ca2a4&amp;body=Click%20%22Create%22%20to%20play%20a4.%20Please%20don't%20edit%20the%20title.">a4</a></td></tr>
+<tr><td>♟&#xFE0E; Pawn</td><td align="center"><b>b2</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cb2b3&amp;body=Click%20%22Create%22%20to%20play%20b3.%20Please%20don't%20edit%20the%20title.">b3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cb2b4&amp;body=Click%20%22Create%22%20to%20play%20b4.%20Please%20don't%20edit%20the%20title.">b4</a></td></tr>
+<tr><td>♟&#xFE0E; Pawn</td><td align="center"><b>c2</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cc2c3&amp;body=Click%20%22Create%22%20to%20play%20c3.%20Please%20don't%20edit%20the%20title.">c3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cc2c4&amp;body=Click%20%22Create%22%20to%20play%20c4.%20Please%20don't%20edit%20the%20title.">c4</a></td></tr>
+<tr><td>♟&#xFE0E; Pawn</td><td align="center"><b>d2</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cd2d3&amp;body=Click%20%22Create%22%20to%20play%20d3.%20Please%20don't%20edit%20the%20title.">d3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cd2d4&amp;body=Click%20%22Create%22%20to%20play%20d4.%20Please%20don't%20edit%20the%20title.">d4</a></td></tr>
+<tr><td>♟&#xFE0E; Pawn</td><td align="center"><b>e2</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Ce2e3&amp;body=Click%20%22Create%22%20to%20play%20e3.%20Please%20don't%20edit%20the%20title.">e3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Ce2e4&amp;body=Click%20%22Create%22%20to%20play%20e4.%20Please%20don't%20edit%20the%20title.">e4</a></td></tr>
+<tr><td>♟&#xFE0E; Pawn</td><td align="center"><b>f2</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cf2f3&amp;body=Click%20%22Create%22%20to%20play%20f3.%20Please%20don't%20edit%20the%20title.">f3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cf2f4&amp;body=Click%20%22Create%22%20to%20play%20f4.%20Please%20don't%20edit%20the%20title.">f4</a></td></tr>
+<tr><td>♟&#xFE0E; Pawn</td><td align="center"><b>g2</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cg2g3&amp;body=Click%20%22Create%22%20to%20play%20g3.%20Please%20don't%20edit%20the%20title.">g3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Cg2g4&amp;body=Click%20%22Create%22%20to%20play%20g4.%20Please%20don't%20edit%20the%20title.">g4</a></td></tr>
+<tr><td>♟&#xFE0E; Pawn</td><td align="center"><b>h2</b></td><td><a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Ch2h3&amp;body=Click%20%22Create%22%20to%20play%20h3.%20Please%20don't%20edit%20the%20title.">h3</a> &nbsp; <a href="https://github.com/Godse-07/Godse-07/issues/new?title=chess%7Cmove%7Ch2h4&amp;body=Click%20%22Create%22%20to%20play%20h4.%20Please%20don't%20edit%20the%20title.">h4</a></td></tr>
+</table>
+
+</details>
+
+
+
+
+
+<sub>Game #1 · Finished: 0 · 🟦 Owner wins: 0 · 🟧 Visitor wins: 0 · 🤝 Draws: 0</sub>
+
+</div>
 <!-- CHESS:END -->
 
 <div align="center">
