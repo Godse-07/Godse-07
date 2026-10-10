@@ -25,13 +25,9 @@ async function getRandomAnswer() {
 async function run() {
   const ans = await getRandomAnswer();
 
-  const section = `
-## 💡 Random StackOverflow Wisdom
-
-"${ans.text}..."
-
-👍 ${ans.score} upvotes
-`;
+    const clean = ans.text.replace(/\s+/g, " ").trim();
+  const section = `<p align="center"><i>"${clean}..."</i></p>
+<p align="center">👍 ${ans.score} upvotes</p>`;
 
   const readme = fs.readFileSync("README.md", "utf8");
 
