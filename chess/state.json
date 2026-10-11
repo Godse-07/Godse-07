@@ -1,6 +1,6 @@
 {
   "game": 1,
-  "fen": "rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
+  "fen": "rnbqkbnr/pp1ppppp/8/2P5/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2",
   "moves": [
     {
       "san": "d4",
@@ -17,6 +17,14 @@
       "color": "b",
       "by": "MergeMind-7",
       "at": "2026-10-11T01:58:23.230Z"
+    },
+    {
+      "san": "dxc5",
+      "from": "d4",
+      "to": "c5",
+      "color": "w",
+      "by": "Godse-07",
+      "at": "2026-10-11T02:11:17.188Z"
     }
   ],
   "players": [
