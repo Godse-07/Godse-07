@@ -1,6 +1,6 @@
 {
   "game": 1,
-  "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+  "fen": "rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
   "moves": [
     {
       "san": "d4",
@@ -9,14 +9,26 @@
       "color": "w",
       "by": "Godse-07",
       "at": "2026-10-11T01:52:34.050Z"
+    },
+    {
+      "san": "c5",
+      "from": "c7",
+      "to": "c5",
+      "color": "b",
+      "by": "MergeMind-7",
+      "at": "2026-10-11T01:58:23.230Z"
     }
   ],
-  "players": [],
+  "players": [
+    "MergeMind-7"
+  ],
   "stats": {
     "games": 0,
     "ownerWins": 0,
     "visitorWins": 0,
     "draws": 0,
-    "top": {}
+    "top": {
+      "MergeMind-7": 1
+    }
   }
 }
