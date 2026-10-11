@@ -1,7 +1,16 @@
 {
   "game": 1,
-  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
-  "moves": [],
+  "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+  "moves": [
+    {
+      "san": "d4",
+      "from": "d2",
+      "to": "d4",
+      "color": "w",
+      "by": "Godse-07",
+      "at": "2026-10-11T01:52:34.050Z"
+    }
+  ],
   "players": [],
   "stats": {
     "games": 0,
