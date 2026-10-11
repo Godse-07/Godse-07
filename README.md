@@ -155,8 +155,8 @@ Last move: <b>dxc5</b> by <a href="https://github.com/Godse-07">@Godse-07</a> �
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"Undoing a commit is a little scary if you don't know how it works. But it's actually amazingly easy if you do understand..."</i></p>
-<p align="center">👍 13009 upvotes</p>
+<p align="center"><i>"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as..."</i></p>
+<p align="center">👍 11978 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
