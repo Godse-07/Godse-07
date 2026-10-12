@@ -155,8 +155,8 @@ Last move: <b>dxc5</b> by <a href="https://github.com/Godse-07">@Godse-07</a> �
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"The answer has been split depending on whether there is one remote repository configured or multiple. The reason for this is that for the single remote case, some of the commands can be simplified as..."</i></p>
-<p align="center">👍 11978 upvotes</p>
+<p align="center"><i>"To rename the current branch: git branch -m &lt;newname&gt; To rename a branch while pointed to any branch: git branch -m &lt;oldname&gt; &lt;newname&gt; -m is short for --move. To push the local..."</i></p>
+<p align="center">👍 19807 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
