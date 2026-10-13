@@ -155,8 +155,8 @@ Last move: <b>dxc5</b> by <a href="https://github.com/Godse-07">@Godse-07</a> �
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"To rename the current branch: git branch -m &lt;newname&gt; To rename a branch while pointed to any branch: git branch -m &lt;oldname&gt; &lt;newname&gt; -m is short for --move. To push the local..."</i></p>
-<p align="center">👍 19807 upvotes</p>
+<p align="center"><i>"Assuming the hash of the commit you want is c5f567: git restore --source=c5f567 file1/to/restore file2/to/restore The git restore man page gives more information. If you want to revert to the commit..."</i></p>
+<p align="center">👍 7936 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
