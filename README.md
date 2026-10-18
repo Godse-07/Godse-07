@@ -155,8 +155,8 @@ Last move: <b>dxc5</b> by <a href="https://github.com/Godse-07">@Godse-07</a> �
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"Use the in operator: if &quot;blah&quot; not in somestring: continue Note: This is case-sensitive...."</i></p>
-<p align="center">👍 8691 upvotes</p>
+<p align="center"><i>"The notion that regex doesn't support inverse matching is not entirely true. You can mimic this behavior by using negative look-arounds: ^((?!hede).)*$ The regex above will match any string, or line..."</i></p>
+<p align="center">👍 7574 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
