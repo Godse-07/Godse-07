@@ -155,8 +155,8 @@ Last move: <b>dxc5</b> by <a href="https://github.com/Godse-07">@Godse-07</a> �
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"One does not simply redirect using jQuery jQuery is not necessary, and window.location.replace(...) will best simulate an HTTP redirect. window.location.replace(...) is better than using window.locati..."</i></p>
-<p align="center">👍 16471 upvotes</p>
+<p align="center"><i>"git clone -b &lt;branch&gt; &lt;remote_repo&gt; Example: git clone -b my-branch git@github.com:user/myproject.git With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."</i></p>
+<p align="center">👍 9250 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
