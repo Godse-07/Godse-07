@@ -155,8 +155,8 @@ Last move: <b>dxc5</b> by <a href="https://github.com/Godse-07">@Godse-07</a> �
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"git clone -b &lt;branch&gt; &lt;remote_repo&gt; Example: git clone -b my-branch git@github.com:user/myproject.git With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."</i></p>
-<p align="center">👍 9250 upvotes</p>
+<p align="center"><i>"Do the following: grep -rnw '/path/to/somewhere/' -e 'pattern' -r or -R is recursive, -n is line number, and -w stands for match the whole word. -l (lower-case L) can be added to just give the file..."</i></p>
+<p align="center">👍 14048 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
