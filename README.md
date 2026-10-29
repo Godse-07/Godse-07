@@ -155,8 +155,8 @@ Last move: <b>dxc5</b> by <a href="https://github.com/Godse-07">@Godse-07</a> �
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"Use the built-in function enumerate(): for idx, x in enumerate(xs): print(idx, x) It is non-Pythonic to manually index via for i in range(len(xs)): x = xs[i] or manually manage an additional stat..."</i></p>
-<p align="center">👍 9281 upvotes</p>
+<p align="center"><i>"⚠ Warning: Any uncommitted local change to tracked files will be lost, even if staged. But any local file that's not tracked by Git will not be affected. First, update all origin/&lt;branch&gt; ref..."</i></p>
+<p align="center">👍 13661 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
