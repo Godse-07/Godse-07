@@ -157,8 +157,8 @@ Last move: <b>Nc6</b> by <a href="https://github.com/MergeMind-7">@MergeMind-7</
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"git clone -b &lt;branch&gt; &lt;remote_repo&gt; Example: git clone -b my-branch git@github.com:user/myproject.git With Git 1.7.10 and later, add --single-branch to prevent fetching of all branche..."</i></p>
-<p align="center">👍 9253 upvotes</p>
+<p align="center"><i>"Since the question refers to a single element, this code might be more suitable: // Checks CSS content for display:[none|block], ignores visibility:[true|false] $(element).is(&quot;:visible&quot;); /..."</i></p>
+<p align="center">👍 10304 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
