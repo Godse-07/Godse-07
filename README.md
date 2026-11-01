@@ -157,8 +157,8 @@ Last move: <b>Nc6</b> by <a href="https://github.com/MergeMind-7">@MergeMind-7</
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"Since the question refers to a single element, this code might be more suitable: // Checks CSS content for display:[none|block], ignores visibility:[true|false] $(element).is(&quot;:visible&quot;); /..."</i></p>
-<p align="center">👍 10304 upvotes</p>
+<p align="center"><i>"To obtain only the remote URL: git config --get remote.origin.url If you require full output, and you are on a network that can reach the remote repo where the origin resides: git remote show origin..."</i></p>
+<p align="center">👍 8047 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
