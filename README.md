@@ -157,8 +157,8 @@ Last move: <b>Nc6</b> by <a href="https://github.com/MergeMind-7">@MergeMind-7</
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"Yes, it was added in version 2.5. The expression syntax is: a if condition else b First condition is evaluated, then exactly one of either a or b is evaluated and returned based on the Boolean value..."</i></p>
-<p align="center">👍 9359 upvotes</p>
+<p align="center"><i>"For all unstaged files in current working directory use: git restore . For a specific file use: git restore path/to/file/to/revert That together with git switch replaces the overloaded git checkout..."</i></p>
+<p align="center">👍 7531 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
