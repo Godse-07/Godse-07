@@ -157,8 +157,8 @@ Last move: <b>Nc6</b> by <a href="https://github.com/MergeMind-7">@MergeMind-7</
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"For all unstaged files in current working directory use: git restore . For a specific file use: git restore path/to/file/to/revert That together with git switch replaces the overloaded git checkout..."</i></p>
-<p align="center">👍 7531 upvotes</p>
+<p align="center"><i>"Executive Summary git push -d &lt;remote_name&gt; &lt;branchname&gt; # Delete remote git branch -d &lt;branchname&gt; # Delete local Note: In most cases, &lt;remote_name&gt; will be o..."</i></p>
+<p align="center">👍 26927 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
