@@ -157,8 +157,8 @@ Last move: <b>Nc6</b> by <a href="https://github.com/MergeMind-7">@MergeMind-7</
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"You are a victim of branch prediction fail. What is Branch Prediction? Consider a railroad junction: Image by Mecanismo, via Wikimedia Commons. Used under the CC-By-SA 3.0 license. Now for the sake..."</i></p>
-<p align="center">👍 35296 upvotes</p>
+<p align="center"><i>".gitignore will prevent untracked files from being added (without an add -f) to the set of files tracked by Git. However, Git will continue to track any files that are already being tracked. To stop t..."</i></p>
+<p align="center">👍 9336 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
