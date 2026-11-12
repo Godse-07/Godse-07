@@ -157,8 +157,8 @@ Last move: <b>Nc6</b> by <a href="https://github.com/MergeMind-7">@MergeMind-7</
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"Scoping rules The main difference is scoping rules. Variables declared by var keyword are scoped to the immediate function body (hence the function scope) while let variables are scoped to the immedia..."</i></p>
-<p align="center">👍 8405 upvotes</p>
+<p align="center"><i>"In Git 1.7.0 and later, you can checkout a new branch: git checkout -b &lt;branch&gt; Edit files, add and commit. Then push with the -u (short for --set-upstream) option: git push -u origin &lt;branc..."</i></p>
+<p align="center">👍 8682 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
