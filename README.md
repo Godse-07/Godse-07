@@ -157,8 +157,8 @@ Last move: <b>Nc6</b> by <a href="https://github.com/MergeMind-7">@MergeMind-7</
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"In Git 1.7.0 and later, you can checkout a new branch: git checkout -b &lt;branch&gt; Edit files, add and commit. Then push with the -u (short for --set-upstream) option: git push -u origin &lt;branc..."</i></p>
-<p align="center">👍 8682 upvotes</p>
+<p align="center"><i>"The correct way to avoid SQL injection attacks, no matter which database you use, is to separate the data from SQL, so that data stays data and will never be interpreted as commands by the SQL parser...."</i></p>
+<p align="center">👍 9711 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
