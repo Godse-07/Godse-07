@@ -157,8 +157,8 @@ Last move: <b>e4</b> by <a href="https://github.com/Godse-07">@Godse-07</a> 🟦
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"It's a time zone change on December 31st in Shanghai. See this page for details of 1927 in Shanghai. Basically at midnight at the end of 1927, the clocks went back 5 minutes and 52 seconds. So &quot;1..."</i></p>
-<p align="center">👍 11943 upvotes</p>
+<p align="center"><i>"One does not simply redirect using jQuery jQuery is not necessary, and window.location.replace(...) will best simulate an HTTP redirect. window.location.replace(...) is better than using window.locati..."</i></p>
+<p align="center">👍 16471 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
