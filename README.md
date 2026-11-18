@@ -157,8 +157,8 @@ Last move: <b>e4</b> by <a href="https://github.com/Godse-07">@Godse-07</a> 🟦
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"git-clean - Remove untracked files from the working tree Synopsis git clean [-d] [-f] [-i] [-n] [-q] [-e &lt;pattern&gt;] [-x | -X] [--] &lt;path&gt;…​ Description Cleans the working tree by recursi..."</i></p>
-<p align="center">👍 10118 upvotes</p>
+<p align="center"><i>"How can I merge two Python dictionaries in a single expression? For dictionaries x and y, their shallowly-merged dictionary z takes values from y, replacing those from x. In Python 3.9.0 or greater (..."</i></p>
+<p align="center">👍 9419 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
