@@ -157,8 +157,8 @@ Last move: <b>e4</b> by <a href="https://github.com/Godse-07">@Godse-07</a> 🟦
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"Undoing a commit is a little scary if you don't know how it works. But it's actually amazingly easy if you do understand. I'll show you the 4 different ways you can undo a commit. Say you have this,..."</i></p>
-<p align="center">👍 13012 upvotes</p>
+<p align="center"><i>"First, view the existing remotes to verify which URL is currently set: git remote -v Then, you can set it with: git remote set-url origin &lt;NEW_GIT_URL_HERE&gt; See git help remote. You also can e..."</i></p>
+<p align="center">👍 11282 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
