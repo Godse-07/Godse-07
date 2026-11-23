@@ -157,8 +157,8 @@ Last move: <b>e4</b> by <a href="https://github.com/Godse-07">@Godse-07</a> 🟦
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"It’s a holdover from the Netscape days: Missing digits are treated as 0[...]. An incorrect digit is simply interpreted as 0. For example the values #F0F0F0, F0F0F0, F0F0F, #FxFxFx and FxFxFx are all..."</i></p>
-<p align="center">👍 8246 upvotes</p>
+<p align="center"><i>"You can use a for…in loop with an Object.hasOwn (ECMA 2022+) test to check whether an object has any own properties: function isEmpty(obj) { for (const prop in obj) { if (Object.hasOwn(obj, prop..."</i></p>
+<p align="center">👍 7558 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
