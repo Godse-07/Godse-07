@@ -157,8 +157,8 @@ Last move: <b>e4</b> by <a href="https://github.com/Godse-07">@Godse-07</a> 🟦
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"You can use a for…in loop with an Object.hasOwn (ECMA 2022+) test to check whether an object has any own properties: function isEmpty(obj) { for (const prop in obj) { if (Object.hasOwn(obj, prop..."</i></p>
-<p align="center">👍 7558 upvotes</p>
+<p align="center"><i>"Since the question refers to a single element, this code might be more suitable: // Checks CSS content for display:[none|block], ignores visibility:[true|false] $(element).is(&quot;:visible&quot;); /..."</i></p>
+<p align="center">👍 10303 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
