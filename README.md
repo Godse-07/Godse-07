@@ -157,8 +157,8 @@ Last move: <b>e4</b> by <a href="https://github.com/Godse-07">@Godse-07</a> 🟦
 <h2 align="center">💡 Random StackOverflow Wisdom</h2>
 
 <!--START_SECTION:stackoverflow-->
-<p align="center"><i>"Use URLSearchParams to get parameters from the query string. For example: const urlParams = new URLSearchParams(window.location.search); const myParam = urlParams.get('myParam'); Update: Jan-2022 Usi..."</i></p>
-<p align="center">👍 10675 upvotes</p>
+<p align="center"><i>"TL;DR Your best bets are usually a for-of loop (ES2015+ only; spec | MDN) - simple and async-friendly for (const element of theArray) { // ...use `element`... } forEach (ES5+ only; spec | MDN..."</i></p>
+<p align="center">👍 8612 upvotes</p>
 <!--END_SECTION:stackoverflow-->
 
 <br>
